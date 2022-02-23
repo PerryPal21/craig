@@ -1,10 +1,16 @@
 # craig
 A shitty discord bot for our server, the nixfits
 
+*I plan on turning this into something non shitty at least*
+
+TODO
+- A full rewrite of the command handler
+- A rewrite of the basic commands due to outdated discord.js version being used before
+
 
 # Dependencies
 - discord.js
-- node.js version 14
+- node.js
 
 # Installation
 These steps are fairly simple to follow. While Craig is mainly for our server (The Nixfits), he is super simple to use for your own server, or for testing and adding features for The Nixfits.
