@@ -1,4 +1,4 @@
-# craig
+# Perry's fork of Craig
 A shitty discord bot for our server, the nixfits
 
 *I plan on turning this into something non shitty at least*
